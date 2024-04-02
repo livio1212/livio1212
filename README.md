@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Olá meu nome é Livio Costa e tenho 19 ano, sou estudante a desenvolvimento java, universitario<br>de analise e desenvolvimento de sistemas pela Unip, estudo area da ti desde 2019.
 
 
