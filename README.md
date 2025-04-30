@@ -1,7 +1,5 @@
 # Livio Costa
-- Meu nome é Lívio Costa, estudante de Análise e Desenvolvimento de Sistemas pela UNIP.
-
-- Focado na área de desenvolvimento back-end, utilizando múltiplas linguagens, com ênfase em Java e JavaScript.
+- Olá, eu sou Livio
 
 
 
