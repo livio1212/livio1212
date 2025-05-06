@@ -1,5 +1,6 @@
 # Livio Costa
-- Olá, eu sou Livio
+- Olá, eu sou Livio estudante de analise e desenvolvimento pela Universidade paulista, procuro minha primeira oportunidade na área
+- Meu portifolio: devlivio.site
 
 
 
