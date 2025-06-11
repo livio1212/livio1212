@@ -1,5 +1,5 @@
 ### Olá eu sou o Livio✋
-- estudante de analise e desenvolvimento pela Universidade paulista.
+- estudante de analise e desenvolvimento pela Universidade paulista focado para desenvolvimento full stack.
 - Meu portifolio: https://devlivio.site/
 
 
