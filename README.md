@@ -30,14 +30,14 @@
     Obrigado pela visita.
   </p>
   <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
-    Caso tenha se interessado fique a vontade para entrar em contato 
+    Caso tenha se interessado fique a vontade para entrar em contato:
   </p>
   
 </div>
 
 
 
-[![email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=F00000)](https://www.instagram.com/liviocosta.1/)
+[![email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=F00000)](devliviocosta@gmail.com)
 
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
@@ -46,6 +46,5 @@
   </div>
   <div align="center">
   <a href="https://github.com/livio1212"><img alt="livio1212's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=livio1212&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-  <img src="https://wakatime.com/share/@livio1212/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
   </div>
 
