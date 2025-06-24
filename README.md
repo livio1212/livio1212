@@ -1,22 +1,51 @@
-### Olá eu sou o Livio✋
-### Estudante de analise e desenvolvimento pela Universidade paulista, focado em desenvolvimento full stack.
-### https://devlivio.site/
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F00000&height=70&section=header"/>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=F00000&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Livio" alt="Typing SVG" /></a>
+</div> 
+<br>
+
+
+<h1 style="font-size: 2.5em; color: #F00000; text-align: center;">Livio Costa </h1>
+
+<p align="justify">
+  Sempre buscando aprimorar meus conhecimentos como Full-Stack.<br>
+  Cursando Análise e Desenvolvimento de Sistemas na UNIP<br>
+  Apaixonada por criar codigos funcionais e escalaveis.<br></p>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=F00000)](https://www.linkedin.com/in/livio-costa/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F00000)](https://www.instagram.com/liviocosta.1/)
+[![discord](https://img.shields.io/badge/-discord-000?style=for-the-badge&logo=discord&logoColor=F00000)](https://www.instagram.com/liviocosta.1/)
+
+
+### Skills:
+<p>Minhas tecnologias:</p>
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=js,java,docker,express,nodejs,ts,yarn,py,flask&line=3" alt="My Skills">
+</a>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="coelhinho" align="right" style="min-width: 200px; max-width: 200px; width: 200px;">
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
+    Obrigado pela visita.
+  </p>
+  <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
+    Caso tenha se interessado fique a vontade para entrar em contato 
+  </p>
+  
+</div>
 
 
 
+[![email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=F00000)](https://www.instagram.com/liviocosta.1/)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liviocosta.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livio-costa/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/livioboliche) 
+<summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
+  <div align="center">
+    <img height="192px" alt="livio1212's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livio1212&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=livio1212&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+  </div>
+  <div align="center">
+  <a href="https://github.com/livio1212"><img alt="livio1212's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=livio1212&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <img src="https://wakatime.com/share/@livio1212/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
+  </div>
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,java,docker,express,nodejs,ts,yarn,py,flask,line=3)](https://skillicons.dev)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=livio1212&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
