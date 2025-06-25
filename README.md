@@ -23,7 +23,7 @@
 <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=js,java,docker,express,nodejs,ts,yarn,py,flask&line=3" alt="My Skills">
 </a>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="coelhinho" align="right" style="min-width: 200px; max-width: 200px; width: 150px;">
+  <img align="right" src="./tenor-unscreen.gif" alt="linux" align="right" style="min-width: 200px; max-width: 200px; width: 150px;">
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <p style="font-size: 1.2em; color: #6a1b9a; flex: 1;">
