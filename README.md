@@ -10,7 +10,7 @@
 <p align="justify">
   Sempre buscando aprimorar meus conhecimentos como Full-Stack.<br>
   Cursando Análise e Desenvolvimento de Sistemas na UNIP<br>
-  Apaixonada por criar codigos funcionais e escalaveis.<br></p>
+  Apaixonado por criar codigos funcionais e escalaveis.<br></p>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=F00000)](https://www.linkedin.com/in/livio-costa/)
