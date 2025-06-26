@@ -16,6 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=F00000)](https://www.linkedin.com/in/livio-costa/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F00000)](https://www.instagram.com/liviocosta.1/)
 [![discord](https://img.shields.io/badge/-discord-000?style=for-the-badge&logo=discord&logoColor=F00000)](https://www.instagram.com/liviocosta.1/)
+[![Site](https://img.shields.io/badge/-portifolio-000?style=for-the-badge&logo=website&logoColor=F00000)](https://www.liviocosta.site)
+
 
 
 ### Skills:
