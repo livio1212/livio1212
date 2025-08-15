@@ -9,7 +9,7 @@
 
 <p align="justify">
   Sempre buscando aprimorar meus conhecimentos como Full-Stack.<br>
-  Cursando Análise e Desenvolvimento de Sistemas na UNIP<br>
+  Cursando Ciencias da Computaçao na Universidade Catolica de Brasilia<br>
   Apaixonado por criar codigos funcionais e escalaveis.<br></p>
 </p>
 
